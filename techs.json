@@ -1,0 +1,206 @@
+{
+    
+    "react": {
+        "icon": "https://i.imgur.com/zWL6NqC.png",
+        "thumb": "https://i.imgur.com/3AhFGlt.png",
+        "url": "https://pt-br.reactjs.org/",
+        "color": "#61dcfb"
+    },
+    
+    "javascript": {
+        "icon": "https://i.imgur.com/Xffh7mo.png",
+        "thumb": "https://i.imgur.com/rY57hOB.png",
+        "url": "https://developer.mozilla.org/pt-BR/docs/Web/JavaScript",
+        "color": "#f7df1d"
+    },
+
+    "typescript": {
+        "icon": "https://i.imgur.com/aVzfdjh.png",
+        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/640px-Typescript_logo_2020.svg.png",
+        "url": "https://www.typescriptlang.org/",
+        "color": "#2d78c7"
+    },
+    
+    "python": {
+        "icon": "https://i.imgur.com/sCTPFTR.png",
+        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png",
+        "url": "https://www.python.org/",
+        "color": "#3573a4"
+    },
+
+    "c#": {
+        "icon": "https://i.imgur.com/UvD8u88.png",
+        "thumb": "https://growiz.com.br/wp-content/uploads/2020/08/kisspng-c-programming-language-logo-microsoft-visual-stud-atlas-portfolio-5b899192d7c600.1628571115357423548838.png",
+        "url": "https://docs.microsoft.com/pt-br/dotnet/csharp/",
+        "color": "#9b4f97"
+    },
+
+    "java": {
+        "icon": "https://i.imgur.com/ISyqcsc.png",
+        "thumb": "https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_wordmark_logo_icon_146459.png",
+        "url": "https://www.java.com/pt-BR/",
+        "color": "#ea2e2f"
+    },
+
+    "kotlin": {
+        "icon": "https://i.imgur.com/yygJU2f.png",
+        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Kotlin_Icon.svg/2048px-Kotlin_Icon.svg.png",
+        "url": "https://kotlinlang.org/",
+        "color": "#6975e1"
+    },
+   
+    "vue": {
+        "icon": "https://i.imgur.com/5JWCGC9.png",
+        "thumb": "https://cdn.worldvectorlogo.com/logos/vue-9.svg",
+        "url": "https://vuejs.org/",
+        "color": "#41b783"
+    },
+   
+    "react native": {
+        "icon": "https://i.imgur.com/zWL6NqC.png",
+        "thumb": "https://i.imgur.com/frAemoS.png",
+        "url": "https://reactnative.dev/",
+        "color": "#61dcfb"
+    },
+    
+    "angular": {
+        "icon": "https://i.imgur.com/xSzFJtu.png",
+        "thumb": "https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_angular_icon_130754.png",
+        "url": "https://angular.io/",
+        "color": "#c40030"
+    },
+    
+    "django": {
+        "icon": "https://i.imgur.com/GNPKWUB.png",
+        "thumb": "https://static.djangoproject.com/img/logos/django-logo-negative.png",
+        "url": "https://www.djangoproject.com/",
+        "color": "#0f3e2e"
+    },
+    
+    "elixir": {
+        "icon": "https://i.imgur.com/UM5I9Ds.png",
+        "thumb": "https://secure.meetupstatic.com/photos/event/c/a/2/d/600_452871757.jpeg",
+        "url": "https://elixir-lang.org/",
+        "color": "#341247"
+    },
+    
+    ".net": {
+        "icon": "https://i.imgur.com/Qh9R5zx.png",
+        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/.NET_Logo.svg/1024px-.NET_Logo.svg.png",
+        "url": "https://dotnet.microsoft.com/en-us/",
+        "color": "#4f27d5"
+    },
+    
+    "spring": {
+        "icon": "https://i.imgur.com/Gx7Lwrj.png",
+        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Spring_Framework_Logo_2018.svg/1280px-Spring_Framework_Logo_2018.svg.png",
+        "url": "https://spring.io/",
+        "color": "#5eb92e"
+    },
+    
+    "hibernate": {
+        "icon": "https://i.imgur.com/qgxdzs8.png",
+        "thumb": "https://design.jboss.org/hibernate/logo/final/hibernate_logo_whitebkg_stacked_256px.gif",
+        "url": "https://hibernate.org/",
+        "color": "#bbae79"
+    },
+    
+    "flutter": {
+        "icon": "https://i.imgur.com/t9QpnzI.png",
+        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Google-flutter-logo.svg/2560px-Google-flutter-logo.svg.png",
+        "url": "https://flutter.dev/",
+        "color": "#43d2fe"
+    },
+    
+    "bootstrap": {
+        "icon": "https://i.imgur.com/bGOBXjV.png",
+        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png",
+        "url": "https://getbootstrap.com/",
+        "color": "#8b0cfc"
+    },
+    
+    "deno": {
+        "icon": "https://i.imgur.com/HTUT2MD.png",
+        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Deno.svg/1200px-Deno.svg.png",
+        "url": "https://doc.deno.land/",
+        "color": "#000000"
+    },
+    
+    "c": {
+        "icon": "https://i.imgur.com/yze15K4.png",
+        "thumb": "https://toppng.com/uploads/preview/c-programming-icon-c-programming-language-logo-11562945679duaxtn3yq0.png",
+        "url": "https://docs.microsoft.com/pt-br/cpp/?view=msvc-170",
+        "color": "#5c6ac0"
+    },
+    
+    "c++": {
+        "icon": "https://i.imgur.com/5EXL5WK.png",
+        "thumb": "https://e7.pngegg.com/pngimages/46/626/png-clipart-c-logo-the-c-programming-language-computer-icons-computer-programming-source-code-programming-miscellaneous-template.png",
+        "url": "https://docs.microsoft.com/pt-br/cpp/?view=msvc-170",
+        "color": "#0180cd"
+    },
+    
+    "node": {
+        "icon": "https://i.imgur.com/m4Vxu75.png",
+        "thumb": "https://cdn.freebiesupply.com/logos/large/2x/nodejs-icon-logo-png-transparent.png",
+        "url": "https://nodejs.org/en/",
+        "color": "#8cc84c"
+    },
+    
+    "laravel": {
+        "icon": "https://i.imgur.com/1kYnEgT.png",
+        "thumb": "https://symbols.getvecta.com/stencil_87/8_laravel-icon.433eca269d.png",
+        "url": "https://laravel.com/",
+        "color": "#ef523f"
+    },
+    
+    "php": {
+        "icon": "https://i.imgur.com/048KCBE.png",
+        "thumb": "https://images.vexels.com/media/users/3/166470/isolated/preview/73835fa38fba6d35aff9de603dc5044a-icone-da-linguagem-de-programacao-php.png",
+        "url": "https://www.php.net/",
+        "color": "#767bb3"
+    },
+    
+    "swift": {
+        "icon": "https://i.imgur.com/cVRmhrI.png",
+        "thumb": "https://i.imgur.com/BRyeS8h.png",
+        "url": "https://developer.apple.com/swift/",
+        "color": "#ff6d00"
+    },
+    
+    "ruby": {
+        "icon": "https://i.imgur.com/rvfSZCe.png",
+        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg/1200px-Ruby_logo.svg.png",
+        "url": "https://www.ruby-lang.org/pt/",
+        "color": "#ac1301"
+    },
+    
+    "ruby on rails": {
+        "icon": "https://i.imgur.com/rvfSZCe.png",
+        "thumb": "https://w7.pngwing.com/pngs/782/228/png-transparent-ruby-on-rails-rubygems-amazon-dynamodb-ruby-text-logo-ruby.png",
+        "url": "https://rubyonrails.org/",
+        "color": "#ac1301"
+    },
+    
+    "yarn": {
+        "icon": "https://i.imgur.com/CA2LsaJ.png",
+        "thumb": "https://cdn.iconscout.com/icon/free/png-256/yarn-34-1174974.png",
+        "url": "https://yarnpkg.com/",
+        "color": "#2c8ebb"
+    },
+    
+    "npm": {
+        "icon": "https://i.imgur.com/Z5t5oGb.png",
+        "thumb": "https://w7.pngwing.com/pngs/828/432/png-transparent-npm-node-js-computer-icons-computer-software-installation-others-text-rectangle-logo.png",
+        "url": "https://www.npmjs.com/",
+        "color": "#d50100"
+    },
+    
+    "lua": {
+        "icon": "https://i.imgur.com/f8HJFVv.png",
+        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/1024px-Lua-Logo.svg.png",
+        "url": "https://www.lua.org/",
+        "color": "#010080"
+    }
+
+}
