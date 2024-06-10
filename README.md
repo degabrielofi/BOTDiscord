@@ -110,4 +110,3 @@ node .
 - [GitHub](https://github.com/debrielofi/BOTDiscord.js)
 - [npm](https://www.npmjs.com/package/discord.js)
 
-## 😃 Gostou? Me siga lá no -> [Likedln](https://www.linkedin.com/in/degabrielofi/)
